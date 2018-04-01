@@ -4,7 +4,9 @@
 1) [MasterVotr](https://github.com/MasterVotr)
 
 ## French Translation
-1) [ARK France](https://github.com/arkfrance) - [ARKFranceGaming.com](http://arkfrancegaming.com)
+1) [ARK France](https://github.com/arkfrance)
+2) [ARKFranceGaming.com](http://arkfrancegaming.com)
+3) [Ca0dan] (http://ark-caodan.org)
 
 ## German Translation
 1) [Trappel22](https://github.com/Trappel22)
